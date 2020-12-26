@@ -1,0 +1,12 @@
+{
+  "name": "shiftIT-client",
+  "displayName": "shiftIT-client",
+  "expo": {
+    "name": "shiftIT-client",
+    "slug": "shiftIT-client",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
